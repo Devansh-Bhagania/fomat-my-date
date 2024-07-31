@@ -1,6 +1,6 @@
 {
   "name": "format-my-date",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A lightweight and flexible library for formatting dates in various styles and locales. Easily format dates and times with support for multiple styles and internationalization.",
   "main": "./dist/index.js",
   "scripts": {
